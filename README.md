@@ -3,9 +3,9 @@
 
 Competition : https://www.kaggle.com/c/titanic
 
-Test Accuracy (Model: XGBoost) = 0.8340 
+Validation Accuracy (Model: XGBoost) = 0.8340 
 
-Competition Accuracy: 0.77033
+Test Accuracy: 0.77033
 
 ### Dataset
 
